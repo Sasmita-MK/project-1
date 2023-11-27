@@ -39,6 +39,14 @@
       "email": "sasmita@gmail.com",
       "password": "kaaaaa",
       "id": 6
+    },
+    {
+      "firstName": "Sasmita",
+      "lastName": "mk",
+      "number": "9843155517",
+      "email": "sas@gmail.com",
+      "password": "sas@2005",
+      "id": 7
     }
   ]
 }
